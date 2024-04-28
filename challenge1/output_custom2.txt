@@ -1,0 +1,424 @@
+>>>>>>>>     FC Size: 12 - Dropout: 0.3 - Learning Rate: 0.01     <<<<<<<<
+                                                                               
+Epoch 1/100	 Train Loss: 0.2061 - Val Loss: 0.1968 - Error Rate: 0.0686
+(TP: 2557 - FP: 129 - FN: 111 - TN: 703)
+FP rate: 0.0480	FN rate: 0.1364
+                                                                               
+Epoch 2/100	 Train Loss: 0.1441 - Val Loss: 0.0751 - Error Rate: 0.0237
+(TP: 2617 - FP: 32 - FN: 51 - TN: 800)
+FP rate: 0.0121	FN rate: 0.0599
+                                                                               
+Epoch 3/100	 Train Loss: 0.1425 - Val Loss: 0.1037 - Error Rate: 0.0403
+(TP: 2544 - FP: 17 - FN: 124 - TN: 815)
+FP rate: 0.0066	FN rate: 0.1321
+                                                                                
+Epoch 4/100	 Train Loss: 0.1133 - Val Loss: 0.0734 - Error Rate: 0.0223
+(TP: 2624 - FP: 34 - FN: 44 - TN: 798)
+FP rate: 0.0128	FN rate: 0.0523
+                                                                               
+Epoch 5/100	 Train Loss: 0.0879 - Val Loss: 0.0534 - Error Rate: 0.0174
+(TP: 2642 - FP: 35 - FN: 26 - TN: 797)
+FP rate: 0.0131	FN rate: 0.0316
+                                                                                
+Epoch 6/100	 Train Loss: 0.0831 - Val Loss: 0.0872 - Error Rate: 0.0246
+(TP: 2655 - FP: 73 - FN: 13 - TN: 759)
+FP rate: 0.0268	FN rate: 0.0168
+                                                                                
+Epoch 7/100	 Train Loss: 0.0776 - Val Loss: 0.0642 - Error Rate: 0.0194
+(TP: 2642 - FP: 42 - FN: 26 - TN: 790)
+FP rate: 0.0156	FN rate: 0.0319
+                                                                                
+Epoch 8/100	 Train Loss: 0.0868 - Val Loss: 0.0876 - Error Rate: 0.0240
+(TP: 2630 - FP: 46 - FN: 38 - TN: 786)
+FP rate: 0.0172	FN rate: 0.0461
+                                                                               
+Epoch 9/100	 Train Loss: 0.1030 - Val Loss: 0.0753 - Error Rate: 0.0260
+(TP: 2585 - FP: 8 - FN: 83 - TN: 824)
+FP rate: 0.0031	FN rate: 0.0915
+                                                                                
+Epoch 10/100	 Train Loss: 0.0743 - Val Loss: 0.0588 - Error Rate: 0.0157
+(TP: 2627 - FP: 14 - FN: 41 - TN: 818)
+FP rate: 0.0053	FN rate: 0.0477
+                                                                                
+Epoch 11/100	 Train Loss: 0.0762 - Val Loss: 0.0719 - Error Rate: 0.0257
+(TP: 2611 - FP: 33 - FN: 57 - TN: 799)
+FP rate: 0.0125	FN rate: 0.0666
+                                                                                 
+Epoch 12/100	 Train Loss: 0.0810 - Val Loss: 0.0434 - Error Rate: 0.0149
+(TP: 2637 - FP: 21 - FN: 31 - TN: 811)
+FP rate: 0.0079	FN rate: 0.0368
+                                                                                
+Epoch 13/100	 Train Loss: 0.0793 - Val Loss: 0.0698 - Error Rate: 0.0240
+(TP: 2606 - FP: 22 - FN: 62 - TN: 810)
+FP rate: 0.0084	FN rate: 0.0711
+                                                                                
+Epoch 14/100	 Train Loss: 0.1068 - Val Loss: 0.1232 - Error Rate: 0.0471
+(TP: 2505 - FP: 2 - FN: 163 - TN: 830)
+FP rate: 0.0008	FN rate: 0.1641
+                                                                               
+Epoch 15/100	 Train Loss: 0.1119 - Val Loss: 0.1180 - Error Rate: 0.0203
+(TP: 2634 - FP: 37 - FN: 34 - TN: 795)
+FP rate: 0.0139	FN rate: 0.0410
+                                                                                 
+Epoch 16/100	 Train Loss: 0.0836 - Val Loss: 0.1303 - Error Rate: 0.0166
+(TP: 2652 - FP: 42 - FN: 16 - TN: 790)
+FP rate: 0.0156	FN rate: 0.0199
+                                                                                
+Epoch 17/100	 Train Loss: 0.1374 - Val Loss: 0.1644 - Error Rate: 0.0583
+(TP: 2472 - FP: 8 - FN: 196 - TN: 824)
+FP rate: 0.0032	FN rate: 0.1922
+                                                                               
+Epoch 18/100	 Train Loss: 0.2231 - Val Loss: 0.0842 - Error Rate: 0.0280
+(TP: 2638 - FP: 68 - FN: 30 - TN: 764)
+FP rate: 0.0251	FN rate: 0.0378
+                                                                                
+Epoch 19/100	 Train Loss: 0.1179 - Val Loss: 0.0804 - Error Rate: 0.0194
+(TP: 2660 - FP: 60 - FN: 8 - TN: 772)
+FP rate: 0.0221	FN rate: 0.0103
+                                                                                
+Epoch 20/100	 Train Loss: 0.0981 - Val Loss: 0.0701 - Error Rate: 0.0154
+(TP: 2639 - FP: 25 - FN: 29 - TN: 807)
+FP rate: 0.0094	FN rate: 0.0347
+                                                                               
+Epoch 21/100	 Train Loss: 0.3505 - Val Loss: 0.2213 - Error Rate: 0.0846
+(TP: 2627 - FP: 255 - FN: 41 - TN: 577)
+FP rate: 0.0885	FN rate: 0.0663
+                                                                               
+Epoch 22/100	 Train Loss: 0.1679 - Val Loss: 0.1164 - Error Rate: 0.0409
+(TP: 2650 - FP: 125 - FN: 18 - TN: 707)
+FP rate: 0.0450	FN rate: 0.0248
+Early stopping on epoch 22
+
+
+
+>>>>>>>>     FC Size: 12 - Dropout: 0.3 - Learning Rate: 0.001     <<<<<<<<
+                                                                               
+Epoch 1/100	 Train Loss: 0.2116 - Val Loss: 0.0795 - Error Rate: 0.0280
+(TP: 2611 - FP: 41 - FN: 57 - TN: 791)
+FP rate: 0.0155	FN rate: 0.0672
+                                                                                
+Epoch 2/100	 Train Loss: 0.0993 - Val Loss: 0.0704 - Error Rate: 0.0263
+(TP: 2597 - FP: 21 - FN: 71 - TN: 811)
+FP rate: 0.0080	FN rate: 0.0805
+                                                                                
+Epoch 3/100	 Train Loss: 0.0767 - Val Loss: 0.0524 - Error Rate: 0.0177
+(TP: 2656 - FP: 50 - FN: 12 - TN: 782)
+FP rate: 0.0185	FN rate: 0.0151
+                                                                                
+Epoch 4/100	 Train Loss: 0.0561 - Val Loss: 0.0430 - Error Rate: 0.0140
+(TP: 2633 - FP: 14 - FN: 35 - TN: 818)
+FP rate: 0.0053	FN rate: 0.0410
+                                                                                
+Epoch 5/100	 Train Loss: 0.0455 - Val Loss: 0.0373 - Error Rate: 0.0129
+(TP: 2636 - FP: 13 - FN: 32 - TN: 819)
+FP rate: 0.0049	FN rate: 0.0376
+                                                                                 
+Epoch 6/100	 Train Loss: 0.0349 - Val Loss: 0.0367 - Error Rate: 0.0123
+(TP: 2650 - FP: 25 - FN: 18 - TN: 807)
+FP rate: 0.0093	FN rate: 0.0218
+                                                                                 
+Epoch 7/100	 Train Loss: 0.0320 - Val Loss: 0.0304 - Error Rate: 0.0103
+(TP: 2654 - FP: 22 - FN: 14 - TN: 810)
+FP rate: 0.0082	FN rate: 0.0170
+                                                                                 
+Epoch 8/100	 Train Loss: 0.0245 - Val Loss: 0.0273 - Error Rate: 0.0097
+(TP: 2655 - FP: 21 - FN: 13 - TN: 811)
+FP rate: 0.0078	FN rate: 0.0158
+                                                                                 
+Epoch 9/100	 Train Loss: 0.0207 - Val Loss: 0.0284 - Error Rate: 0.0091
+(TP: 2661 - FP: 25 - FN: 7 - TN: 807)
+FP rate: 0.0093	FN rate: 0.0086
+                                                                                 
+Epoch 10/100	 Train Loss: 0.0209 - Val Loss: 0.0261 - Error Rate: 0.0080
+(TP: 2657 - FP: 17 - FN: 11 - TN: 815)
+FP rate: 0.0064	FN rate: 0.0133
+                                                                                 
+Epoch 11/100	 Train Loss: 0.0132 - Val Loss: 0.0373 - Error Rate: 0.0094
+(TP: 2643 - FP: 8 - FN: 25 - TN: 824)
+FP rate: 0.0030	FN rate: 0.0294
+                                                                                 
+Epoch 12/100	 Train Loss: 0.0127 - Val Loss: 0.0327 - Error Rate: 0.0074
+(TP: 2659 - FP: 17 - FN: 9 - TN: 815)
+FP rate: 0.0064	FN rate: 0.0109
+                                                                                 
+Epoch 13/100	 Train Loss: 0.0149 - Val Loss: 0.0702 - Error Rate: 0.0194
+(TP: 2629 - FP: 29 - FN: 39 - TN: 803)
+FP rate: 0.0109	FN rate: 0.0463
+                                                                                 
+Epoch 14/100	 Train Loss: 0.0118 - Val Loss: 0.0393 - Error Rate: 0.0077
+(TP: 2647 - FP: 6 - FN: 21 - TN: 826)
+FP rate: 0.0023	FN rate: 0.0248
+                                                                                 
+Epoch 15/100	 Train Loss: 0.0146 - Val Loss: 0.0295 - Error Rate: 0.0086
+(TP: 2652 - FP: 14 - FN: 16 - TN: 818)
+FP rate: 0.0053	FN rate: 0.0192
+                                                                                 
+Epoch 16/100	 Train Loss: 0.0051 - Val Loss: 0.0537 - Error Rate: 0.0109
+(TP: 2664 - FP: 34 - FN: 4 - TN: 798)
+FP rate: 0.0126	FN rate: 0.0050
+                                                                                 
+Epoch 17/100	 Train Loss: 0.0149 - Val Loss: 0.0346 - Error Rate: 0.0071
+(TP: 2651 - FP: 8 - FN: 17 - TN: 824)
+FP rate: 0.0030	FN rate: 0.0202
+                                                                                 
+Epoch 18/100	 Train Loss: 0.0091 - Val Loss: 0.0329 - Error Rate: 0.0091
+(TP: 2647 - FP: 11 - FN: 21 - TN: 821)
+FP rate: 0.0041	FN rate: 0.0249
+                                                                                 
+Epoch 19/100	 Train Loss: 0.0139 - Val Loss: 0.0399 - Error Rate: 0.0106
+(TP: 2656 - FP: 25 - FN: 12 - TN: 807)
+FP rate: 0.0093	FN rate: 0.0147
+                                                                                 
+Epoch 20/100	 Train Loss: 0.0077 - Val Loss: 0.0384 - Error Rate: 0.0120
+(TP: 2655 - FP: 29 - FN: 13 - TN: 803)
+FP rate: 0.0108	FN rate: 0.0159
+Early stopping on epoch 20
+
+
+
+>>>>>>>>     FC Size: 12 - Dropout: 0.3 - Learning Rate: 0.0001     <<<<<<<<
+                                                                              
+Epoch 1/100	 Train Loss: 0.4310 - Val Loss: 0.2133 - Error Rate: 0.0703
+(TP: 2632 - FP: 210 - FN: 36 - TN: 622)
+FP rate: 0.0739	FN rate: 0.0547
+                                                                               
+Epoch 2/100	 Train Loss: 0.1984 - Val Loss: 0.1212 - Error Rate: 0.0431
+(TP: 2621 - FP: 104 - FN: 47 - TN: 728)
+FP rate: 0.0382	FN rate: 0.0606
+                                                                               
+Epoch 3/100	 Train Loss: 0.1493 - Val Loss: 0.1036 - Error Rate: 0.0343
+(TP: 2593 - FP: 45 - FN: 75 - TN: 787)
+FP rate: 0.0171	FN rate: 0.0870
+                                                                               
+Epoch 4/100	 Train Loss: 0.1282 - Val Loss: 0.0880 - Error Rate: 0.0306
+(TP: 2624 - FP: 63 - FN: 44 - TN: 769)
+FP rate: 0.0234	FN rate: 0.0541
+                                                                               
+Epoch 5/100	 Train Loss: 0.1158 - Val Loss: 0.0868 - Error Rate: 0.0311
+(TP: 2638 - FP: 79 - FN: 30 - TN: 753)
+FP rate: 0.0291	FN rate: 0.0383
+                                                                               
+Epoch 6/100	 Train Loss: 0.1092 - Val Loss: 0.0821 - Error Rate: 0.0297
+(TP: 2585 - FP: 21 - FN: 83 - TN: 811)
+FP rate: 0.0081	FN rate: 0.0928
+                                                                               
+Epoch 7/100	 Train Loss: 0.1020 - Val Loss: 0.0738 - Error Rate: 0.0231
+(TP: 2631 - FP: 44 - FN: 37 - TN: 788)
+FP rate: 0.0164	FN rate: 0.0448
+                                                                               
+Epoch 8/100	 Train Loss: 0.0957 - Val Loss: 0.0703 - Error Rate: 0.0251
+(TP: 2618 - FP: 38 - FN: 50 - TN: 794)
+FP rate: 0.0143	FN rate: 0.0592
+                                                                               
+Epoch 9/100	 Train Loss: 0.0911 - Val Loss: 0.0695 - Error Rate: 0.0226
+(TP: 2612 - FP: 23 - FN: 56 - TN: 809)
+FP rate: 0.0087	FN rate: 0.0647
+                                                                               
+Epoch 10/100	 Train Loss: 0.0873 - Val Loss: 0.0620 - Error Rate: 0.0200
+(TP: 2630 - FP: 32 - FN: 38 - TN: 800)
+FP rate: 0.0120	FN rate: 0.0453
+                                                                                
+Epoch 11/100	 Train Loss: 0.0825 - Val Loss: 0.0617 - Error Rate: 0.0203
+(TP: 2625 - FP: 28 - FN: 43 - TN: 804)
+FP rate: 0.0106	FN rate: 0.0508
+                                                                                
+Epoch 12/100	 Train Loss: 0.0802 - Val Loss: 0.0581 - Error Rate: 0.0194
+(TP: 2625 - FP: 25 - FN: 43 - TN: 807)
+FP rate: 0.0094	FN rate: 0.0506
+                                                                               
+Epoch 13/100	 Train Loss: 0.0744 - Val Loss: 0.0610 - Error Rate: 0.0203
+(TP: 2644 - FP: 47 - FN: 24 - TN: 785)
+FP rate: 0.0175	FN rate: 0.0297
+                                                                               
+Epoch 14/100	 Train Loss: 0.0737 - Val Loss: 0.0548 - Error Rate: 0.0174
+(TP: 2635 - FP: 28 - FN: 33 - TN: 804)
+FP rate: 0.0105	FN rate: 0.0394
+                                                                                
+Epoch 15/100	 Train Loss: 0.0688 - Val Loss: 0.0533 - Error Rate: 0.0197
+(TP: 2624 - FP: 25 - FN: 44 - TN: 807)
+FP rate: 0.0094	FN rate: 0.0517
+                                                                                
+Epoch 16/100	 Train Loss: 0.0652 - Val Loss: 0.0586 - Error Rate: 0.0220
+(TP: 2608 - FP: 17 - FN: 60 - TN: 815)
+FP rate: 0.0065	FN rate: 0.0686
+                                                                                
+Epoch 17/100	 Train Loss: 0.0633 - Val Loss: 0.0517 - Error Rate: 0.0157
+(TP: 2647 - FP: 34 - FN: 21 - TN: 798)
+FP rate: 0.0127	FN rate: 0.0256
+                                                                                
+Epoch 18/100	 Train Loss: 0.0622 - Val Loss: 0.0479 - Error Rate: 0.0163
+(TP: 2638 - FP: 27 - FN: 30 - TN: 805)
+FP rate: 0.0101	FN rate: 0.0359
+                                                                                
+Epoch 19/100	 Train Loss: 0.0568 - Val Loss: 0.0473 - Error Rate: 0.0149
+(TP: 2639 - FP: 23 - FN: 29 - TN: 809)
+FP rate: 0.0086	FN rate: 0.0346
+                                                                                
+Epoch 20/100	 Train Loss: 0.0567 - Val Loss: 0.0509 - Error Rate: 0.0160
+(TP: 2653 - FP: 41 - FN: 15 - TN: 791)
+FP rate: 0.0152	FN rate: 0.0186
+                                                                                
+Epoch 21/100	 Train Loss: 0.0524 - Val Loss: 0.0470 - Error Rate: 0.0151
+(TP: 2651 - FP: 36 - FN: 17 - TN: 796)
+FP rate: 0.0134	FN rate: 0.0209
+                                                                                
+Epoch 22/100	 Train Loss: 0.0499 - Val Loss: 0.0425 - Error Rate: 0.0146
+(TP: 2640 - FP: 23 - FN: 28 - TN: 809)
+FP rate: 0.0086	FN rate: 0.0335
+                                                                                
+Epoch 23/100	 Train Loss: 0.0510 - Val Loss: 0.0433 - Error Rate: 0.0131
+(TP: 2654 - FP: 32 - FN: 14 - TN: 800)
+FP rate: 0.0119	FN rate: 0.0172
+                                                                                
+Epoch 24/100	 Train Loss: 0.0453 - Val Loss: 0.0472 - Error Rate: 0.0163
+(TP: 2626 - FP: 15 - FN: 42 - TN: 817)
+FP rate: 0.0057	FN rate: 0.0489
+                                                                                
+Epoch 25/100	 Train Loss: 0.0468 - Val Loss: 0.0474 - Error Rate: 0.0169
+(TP: 2629 - FP: 20 - FN: 39 - TN: 812)
+FP rate: 0.0076	FN rate: 0.0458
+                                                                                
+Epoch 26/100	 Train Loss: 0.0442 - Val Loss: 0.0522 - Error Rate: 0.0143
+(TP: 2657 - FP: 39 - FN: 11 - TN: 793)
+FP rate: 0.0145	FN rate: 0.0137
+                                                                                
+Epoch 27/100	 Train Loss: 0.0422 - Val Loss: 0.0385 - Error Rate: 0.0126
+(TP: 2652 - FP: 28 - FN: 16 - TN: 804)
+FP rate: 0.0104	FN rate: 0.0195
+                                                                                
+Epoch 28/100	 Train Loss: 0.0405 - Val Loss: 0.0367 - Error Rate: 0.0109
+(TP: 2648 - FP: 18 - FN: 20 - TN: 814)
+FP rate: 0.0068	FN rate: 0.0240
+                                                                                
+Epoch 29/100	 Train Loss: 0.0381 - Val Loss: 0.0382 - Error Rate: 0.0111
+(TP: 2653 - FP: 24 - FN: 15 - TN: 808)
+FP rate: 0.0090	FN rate: 0.0182
+                                                                                
+Epoch 30/100	 Train Loss: 0.0368 - Val Loss: 0.0375 - Error Rate: 0.0123
+(TP: 2639 - FP: 14 - FN: 29 - TN: 818)
+FP rate: 0.0053	FN rate: 0.0342
+                                                                                 
+Epoch 31/100	 Train Loss: 0.0352 - Val Loss: 0.0346 - Error Rate: 0.0100
+(TP: 2652 - FP: 19 - FN: 16 - TN: 813)
+FP rate: 0.0071	FN rate: 0.0193
+                                                                                
+Epoch 32/100	 Train Loss: 0.0338 - Val Loss: 0.0329 - Error Rate: 0.0097
+(TP: 2650 - FP: 16 - FN: 18 - TN: 816)
+FP rate: 0.0060	FN rate: 0.0216
+                                                                                
+Epoch 33/100	 Train Loss: 0.0335 - Val Loss: 0.0511 - Error Rate: 0.0169
+(TP: 2660 - FP: 51 - FN: 8 - TN: 781)
+FP rate: 0.0188	FN rate: 0.0101
+                                                                                 
+Epoch 34/100	 Train Loss: 0.0295 - Val Loss: 0.0351 - Error Rate: 0.0094
+(TP: 2658 - FP: 23 - FN: 10 - TN: 809)
+FP rate: 0.0086	FN rate: 0.0122
+                                                                                
+Epoch 35/100	 Train Loss: 0.0325 - Val Loss: 0.0336 - Error Rate: 0.0111
+(TP: 2644 - FP: 15 - FN: 24 - TN: 817)
+FP rate: 0.0056	FN rate: 0.0285
+                                                                                 
+Epoch 36/100	 Train Loss: 0.0267 - Val Loss: 0.0337 - Error Rate: 0.0097
+(TP: 2654 - FP: 20 - FN: 14 - TN: 812)
+FP rate: 0.0075	FN rate: 0.0169
+                                                                                 
+Epoch 37/100	 Train Loss: 0.0262 - Val Loss: 0.0313 - Error Rate: 0.0097
+(TP: 2653 - FP: 19 - FN: 15 - TN: 813)
+FP rate: 0.0071	FN rate: 0.0181
+                                                                                 
+Epoch 38/100	 Train Loss: 0.0250 - Val Loss: 0.0311 - Error Rate: 0.0106
+(TP: 2645 - FP: 14 - FN: 23 - TN: 818)
+FP rate: 0.0053	FN rate: 0.0273
+                                                                                 
+Epoch 39/100	 Train Loss: 0.0245 - Val Loss: 0.0399 - Error Rate: 0.0111
+(TP: 2649 - FP: 20 - FN: 19 - TN: 812)
+FP rate: 0.0075	FN rate: 0.0229
+                                                                                 
+Epoch 40/100	 Train Loss: 0.0205 - Val Loss: 0.0328 - Error Rate: 0.0089
+(TP: 2656 - FP: 19 - FN: 12 - TN: 813)
+FP rate: 0.0071	FN rate: 0.0145
+                                                                                 
+Epoch 41/100	 Train Loss: 0.0208 - Val Loss: 0.0345 - Error Rate: 0.0114
+(TP: 2643 - FP: 15 - FN: 25 - TN: 817)
+FP rate: 0.0056	FN rate: 0.0297
+                                                                                 
+Epoch 42/100	 Train Loss: 0.0224 - Val Loss: 0.0472 - Error Rate: 0.0134
+(TP: 2661 - FP: 40 - FN: 7 - TN: 792)
+FP rate: 0.0148	FN rate: 0.0088
+                                                                                 
+Epoch 43/100	 Train Loss: 0.0251 - Val Loss: 0.0373 - Error Rate: 0.0114
+(TP: 2637 - FP: 9 - FN: 31 - TN: 823)
+FP rate: 0.0034	FN rate: 0.0363
+                                                                                 
+Epoch 44/100	 Train Loss: 0.0172 - Val Loss: 0.0314 - Error Rate: 0.0097
+(TP: 2652 - FP: 18 - FN: 16 - TN: 814)
+FP rate: 0.0067	FN rate: 0.0193
+                                                                                 
+Epoch 45/100	 Train Loss: 0.0184 - Val Loss: 0.0364 - Error Rate: 0.0109
+(TP: 2638 - FP: 8 - FN: 30 - TN: 824)
+FP rate: 0.0030	FN rate: 0.0351
+                                                                                 
+Epoch 46/100	 Train Loss: 0.0170 - Val Loss: 0.0315 - Error Rate: 0.0100
+(TP: 2656 - FP: 23 - FN: 12 - TN: 809)
+FP rate: 0.0086	FN rate: 0.0146
+                                                                                 
+Epoch 47/100	 Train Loss: 0.0171 - Val Loss: 0.0342 - Error Rate: 0.0109
+(TP: 2655 - FP: 25 - FN: 13 - TN: 807)
+FP rate: 0.0093	FN rate: 0.0159
+                                                                                 
+Epoch 48/100	 Train Loss: 0.0157 - Val Loss: 0.0322 - Error Rate: 0.0091
+(TP: 2657 - FP: 21 - FN: 11 - TN: 811)
+FP rate: 0.0078	FN rate: 0.0134
+                                                                                 
+Epoch 49/100	 Train Loss: 0.0149 - Val Loss: 0.0348 - Error Rate: 0.0100
+(TP: 2656 - FP: 23 - FN: 12 - TN: 809)
+FP rate: 0.0086	FN rate: 0.0146
+                                                                                 
+Epoch 50/100	 Train Loss: 0.0174 - Val Loss: 0.0304 - Error Rate: 0.0086
+(TP: 2651 - FP: 13 - FN: 17 - TN: 819)
+FP rate: 0.0049	FN rate: 0.0203
+                                                                                 
+Epoch 51/100	 Train Loss: 0.0166 - Val Loss: 0.0356 - Error Rate: 0.0109
+(TP: 2645 - FP: 15 - FN: 23 - TN: 817)
+FP rate: 0.0056	FN rate: 0.0274
+                                                                                 
+Epoch 52/100	 Train Loss: 0.0129 - Val Loss: 0.0404 - Error Rate: 0.0126
+(TP: 2656 - FP: 32 - FN: 12 - TN: 800)
+FP rate: 0.0119	FN rate: 0.0148
+                                                                                 
+Epoch 53/100	 Train Loss: 0.0128 - Val Loss: 0.0320 - Error Rate: 0.0094
+(TP: 2653 - FP: 18 - FN: 15 - TN: 814)
+FP rate: 0.0067	FN rate: 0.0181
+                                                                                 
+Epoch 54/100	 Train Loss: 0.0107 - Val Loss: 0.0440 - Error Rate: 0.0120
+(TP: 2632 - FP: 6 - FN: 36 - TN: 826)
+FP rate: 0.0023	FN rate: 0.0418
+                                                                                 
+Epoch 55/100	 Train Loss: 0.0114 - Val Loss: 0.0307 - Error Rate: 0.0086
+(TP: 2657 - FP: 19 - FN: 11 - TN: 813)
+FP rate: 0.0071	FN rate: 0.0133
+                                                                                 
+Epoch 56/100	 Train Loss: 0.0112 - Val Loss: 0.0423 - Error Rate: 0.0111
+(TP: 2647 - FP: 18 - FN: 21 - TN: 814)
+FP rate: 0.0068	FN rate: 0.0251
+                                                                                 
+Epoch 57/100	 Train Loss: 0.0104 - Val Loss: 0.0332 - Error Rate: 0.0086
+(TP: 2654 - FP: 16 - FN: 14 - TN: 816)
+FP rate: 0.0060	FN rate: 0.0169
+                                                                                 
+Epoch 58/100	 Train Loss: 0.0091 - Val Loss: 0.0537 - Error Rate: 0.0137
+(TP: 2654 - FP: 34 - FN: 14 - TN: 798)
+FP rate: 0.0126	FN rate: 0.0172
+                                                                                 
+Epoch 59/100	 Train Loss: 0.0089 - Val Loss: 0.0338 - Error Rate: 0.0091
+(TP: 2657 - FP: 21 - FN: 11 - TN: 811)
+FP rate: 0.0078	FN rate: 0.0134
+                                                                                 
+Epoch 60/100	 Train Loss: 0.0097 - Val Loss: 0.0376 - Error Rate: 0.0086
+(TP: 2646 - FP: 8 - FN: 22 - TN: 824)
+FP rate: 0.0030	FN rate: 0.0260
+                                                                                 
+Epoch 61/100	 Train Loss: 0.0164 - Val Loss: 0.0379 - Error Rate: 0.0120
+(TP: 2659 - FP: 33 - FN: 9 - TN: 799)
+FP rate: 0.0123	FN rate: 0.0111
+Early stopping on epoch 61
