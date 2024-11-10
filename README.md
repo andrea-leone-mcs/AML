@@ -1,2 +1,3 @@
 # AML - Algoritmic Machine Learning
-Private repository for the AML course @EURECOM
+Solutions to AML challenges @EURECOM.
+Solutions can be find in the branches `challenge1`, `challenge2`, `challenge3`.
