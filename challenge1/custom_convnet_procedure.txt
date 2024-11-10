@@ -1,5 +1,0 @@
-- Search for learning rate [1e-2, 1e-3, 1e-4]
-    - 1e-3 was the best but 1e-4 was very close. Try 5e-4 but no actual improvement => Pick 1e-3.
-- Grid search for best hyperparameters dropout and fc_size -> [0.1, 0.3, 0.5] and [6, 12, 24]
-    - best model is fc_size = 6 and dropout = 0.3
-- Pick best parameters and try with more seeds
